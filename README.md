@@ -20,7 +20,7 @@
 ```
 
 ## 3. Dữ liệu sử dụng:
-#### Cột đầu tiên chưa giá tiền của trò chơi ($)
+#### Cột đầu tiên chứa giá tiền của trò chơi ($)
 #### 29 cột tiếp theo lần lượt thể hiện các tag được gán cho trò chơi tương ứng (1: được gán, 0: không được gán) bao gồm các tag sau:
 Indie
 Action

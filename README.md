@@ -20,8 +20,8 @@
 ```
 
 ## 3. Dữ liệu sử dụng:
-Cột đầu tiên chưa giá tiền của trò chơi ($)
-29 cột tiếp theo lần lượt thể hiện các tag được gán cho trò chơi tương ứng (1: được gán, 0: không được gán) bao gồm các tag sau:
+#### Cột đầu tiên chưa giá tiền của trò chơi ($)
+#### 29 cột tiếp theo lần lượt thể hiện các tag được gán cho trò chơi tương ứng (1: được gán, 0: không được gán) bao gồm các tag sau:
 Indie
 Action
 Adventure
@@ -52,5 +52,5 @@ Sci-fi
 Funny
 Sports
 
-Cột cuối cùng thể hiện đánh giá của người dùng về trò chơi đó (0: Mixed, -1: Negative, 1: Positive)
+#### Cột cuối cùng thể hiện đánh giá của người dùng về trò chơi đó (0: Mixed, -1: Negative, 1: Positive)
 
